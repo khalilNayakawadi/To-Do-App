@@ -15,12 +15,11 @@
     height: 50px;
     width: 100%;
     background-color: white;
-    padding: 5px;
     margin-top: 10px;
     border-radius: 7px;
 }
 h4{
-    margin-top: 10px;
+    padding-top: 6px;
     color: rgb(10, 122, 220) !important;
     width: 90%;
 }
@@ -41,12 +40,12 @@ h4{
 }
 
 .btn{
-    font-weight: bolder !important;
-    font-size: 15px !important;
+    width: 60px;
+    font-size: 25px !important;
 }
 
 #taskinput{
-    width: 90%;
+    width: 80%;
     margin-right: 10px;
     padding: 5px;
 }
@@ -56,4 +55,8 @@ h2{
     justify-content: center;
     align-items: center;
     color: white !important;
+}
+
+input{
+    font-size: 25px !important;
 }
