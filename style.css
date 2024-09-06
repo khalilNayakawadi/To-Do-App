@@ -12,10 +12,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 50px;
+    height: 70px;
     width: 100%;
     background-color: white;
     margin-top: 10px;
+    padding: 5px;
     border-radius: 7px;
 }
 h4{
@@ -33,15 +34,16 @@ h4{
 }
 
 .inputdiv{
-    width: 100%;
-    padding: 5px;
     display: flex;
-    outline: none;
+    border: none;
 }
 
 .btn{
     width: 60px;
     font-size: 25px !important;
+    margin: 5px;
+    margin-left: 10px;
+    outline: hidden;
 }
 
 #taskinput{
